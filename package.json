@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-data-kingcounty",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "King County Open Data (data.kingcounty.gov) Socrata MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-cd921b77980542cb50bcfb2521bb61393866be48112fe468b21e434092f552f3",
-    "sourceCommit": "56d3c46c09bb3078ffdbdbca992a93f406bcd382"
+    "sourceHash": "v1-7f95507484ba9873a0794d0f24373496754bdecaa3576bf781945d7bd06c5947",
+    "sourceCommit": "8355bf3d1eece256a62a89dba2278e7a77bebe07"
   }
 }
